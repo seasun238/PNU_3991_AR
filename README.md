@@ -7,13 +7,13 @@
 ---
 - [PNU_3991_AR]()
 
-- [حساب گیت هاب]()
+- [حساب گیت هاب](https://github.com/seasun238)
 
-- [رزومه]()
+- [رزومه](https://seasun238.github.io/)
 
-- [SOP]()
+- [SOP](https://seasun238.github.io/SOP/)
 
-- [JavaScript certificate]()
+- [JavaScript certificate](IMG-20201207-WA0002.jpg)
 
 ------------------
 ## Winter Semester Courses 1399/2020
