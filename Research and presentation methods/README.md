@@ -1,1 +1,10 @@
 
+- [55.pdf](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/55.pdf)
+- [55.tex](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/55.tex)
+- [56.pdf](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/56.pdf)
+- [56.tex](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/56.tex)
+- [57.pdf](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/57.pdf)
+- [57.tex](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/57.tex)
+- [kholase.pdf](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/kholase.pdf)
+- [kholase.tex](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/kholase.tex)
+- [film]()
