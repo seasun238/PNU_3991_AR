@@ -17,15 +17,7 @@
 
 - [jlord patchwork](https://github.com/seasun238/PNU_3991_AR/blob/main/jlord.PNG)
 ------------------
-## Winter Semester Courses 1399/2020
 
-
-
-
-<br>
-
-
---------------
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
