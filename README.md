@@ -18,6 +18,15 @@
 - [jlord patchwork](https://github.com/seasun238/PNU_3991_AR/blob/main/jlord.PNG)
 ------------------
 
+## Winter Semester Courses 1399/2020
+    
+## دروس کارشناسی
+
+[1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/19_%D9%87%D9%84%D9%86%20%D8%AF%D8%A8%D8%A7%D8%BA%D9%8A%20%D8%A8%D9%88%D9%83%D8%A7%D9%86%D9%8A)
+--------------
+
+
+
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
