@@ -17,7 +17,16 @@
 
 - [jlord patchwork](https://github.com/seasun238/PNU_3991_AR/blob/main/jlord.PNG)
 ------------------
+> ارزیابی ها
 
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/seasun238/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/seasun238/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+## بخش دروس کارشناسی
+- [خلاصه ارزیابی درس_روش پژوهش وارائه]()
+
+-----------
 # گروه ها 
 1. G-R01
     1. [_RPM02-09_فاطمه پرهیزکاری**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/09_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%BE%D8%B1%D9%87%D9%8A%D8%B2%D9%83%D8%A7%D8%B1%D9%8A)
