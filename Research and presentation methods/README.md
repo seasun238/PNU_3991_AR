@@ -7,12 +7,6 @@
 <br>
 
 
-# معرفی دروس مشابه در دانشگاههای دیگر
--
-
-# جستجوی منابع دیگر
-- 
-
 # ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
 - [55.pdf](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/55.pdf)
 - [55.tex](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/55.tex)
