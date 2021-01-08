@@ -24,7 +24,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/seasun238/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس کارشناسی
-- [خلاصه ارزیابی درس_روش پژوهش وارائه]()
+- [خلاصه ارزیابی درس_روش پژوهش وارائه](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 -----------
 # گروه ها 
