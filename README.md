@@ -32,15 +32,33 @@
 - [خلاصه ارزیابی درس_روش پژوهش وارائه](https://github.com/seasun238/PNU_3991_AR/blob/main/Research%20and%20presentation%20methods/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 -----------
+# فعالیت گروهی
+
+## جستجو منابع دیگر
+
+[معرفی پایان نامه](https://github.com/seasun238/PNU_3991_AR/blob/main/Payanameh.pdf) 
+
+
+
+-----------
 # گروه ها 
 1. G-R01
-    1. [_RPM02-09_فاطمه پرهیزکاری**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/09_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%BE%D8%B1%D9%87%D9%8A%D8%B2%D9%83%D8%A7%D8%B1%D9%8A)
-    1. [_RPM01-06_یحیی صیاداربابی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/06_%D9%8A%D8%AD%D9%8A%D9%8A%20%D8%B5%D9%8A%D8%A7%D8%AF%D8%A7%D8%B1%D8%A8%D8%A7%D8%A8%D9%8A)
-    1. [_RPM01-07_نیلوفر عبدی تیرآبادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/07_%D9%86%D9%8A%D9%84%D9%88%D9%81%D8%B1%20%D8%B9%D8%A8%D8%AF%D9%8A%20%D8%AA%D9%8A%D8%B1%D8%A7%D8%A8%D8%A7%D8%AF%D9%8A)
-    1. [_RPM01-19_هلن دباغی بوکانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/19_%D9%87%D9%84%D9%86%20%D8%AF%D8%A8%D8%A7%D8%BA%D9%8A%20%D8%A8%D9%88%D9%83%D8%A7%D9%86%D9%8A)
-    1. [_RPM02-37_بابک عبدالهی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/37_%D8%A8%D8%A7%D8%A8%D9%83%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%87%D9%8A)
+     [_RPM01-19_هلن دباغی بوکانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/19_%D9%87%D9%84%D9%86%20%D8%AF%D8%A8%D8%A7%D8%BA%D9%8A%20%D8%A8%D9%88%D9%83%D8%A7%D9%86%D9%8A)
+     
+    1. [_RPM01-21_مبین رجبی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/21_%D9%85%D8%A8%D9%8A%D9%86%20%D8%B1%D8%AC%D8%A8%D9%8A)
+    
+    1. [_RPM01-45_امیر حسین عرفانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/45_%D8%A7%D9%85%D9%8A%D8%B1%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B9%D8%B1%D9%81%D8%A7%D9%86%D9%8A)
+    
+    1.[_RPM02-43_مریم فغانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/43_%D9%85%D8%B1%D9%8A%D9%85%20%D9%81%D8%BA%D8%A7%D9%86%D9%8A)
+    
+    
+    1. [_RPM02-02_سیده فاطمه رستمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/02_%D8%B3%D9%8A%D8%AF%D9%87%20%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B1%D8%B3%D8%AA%D9%85%D9%8A%D8%A7%D9%86)
 
-
+     1.[_RPM02-03_مصطفی اسد پاکی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/03_%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%A7%D8%B3%D8%AF%D9%BE%D8%A7%D8%B3%D9%83%D9%8A)
+     
+     1.[_RPM02-57_امیر محمد کوسه لر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/57_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1)
+     
+ -----------
 
 ## Winter Semester Courses 1399/2020
     
