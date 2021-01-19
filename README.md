@@ -54,7 +54,7 @@
     1.[_RPM02-43_مریم فغانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/43_%D9%85%D8%B1%D9%8A%D9%85%20%D9%81%D8%BA%D8%A7%D9%86%D9%8A)
     
     
-    1. [_RPM02-02_سیده فاطمه رستمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/02_%D8%B3%D9%8A%D8%AF%D9%87%20%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B1%D8%B3%D8%AA%D9%85%D9%8A%D8%A7%D9%86)
+    1. [_RPM02-02_سیده فاطمه رستمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/02_%D8%B3%D9%8A%D8%AF%D9%87%20%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B1%D8%B3%D8%AA%D9%85%D9%8A%D8%A7%D9%8)
 
      1.[_RPM02-03_مصطفی اسد پاکی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/03_%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%A7%D8%B3%D8%AF%D9%BE%D8%A7%D8%B3%D9%83%D9%8A)
      
